@@ -79,7 +79,7 @@ img {
 
 body{
   background-image: url("background4.jpg");
-  position: relative;
+  /*position: relative;*/
 }
 
 #reset{
